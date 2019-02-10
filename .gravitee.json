@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "documentation": {
+        "pages": [
+            {
+                "src": "/newdoc/readme.md",
+                "dest": "/my/new/dir/",
+                "name": "New name"
+            }
+        ]
+    }
+}
