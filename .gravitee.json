@@ -5,6 +5,11 @@
             {
                 "src": "/newdoc/readme.md",
                 "dest": "/my/new/dir/",
+                "name": "New name 1"
+            },
+            {
+                "src": "/newdoc/readme.md",
+                "dest": "/my/new/dir/",
                 "name": "New name 2"
             }
         ]
