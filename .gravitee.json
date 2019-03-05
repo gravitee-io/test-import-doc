@@ -4,13 +4,14 @@
         "pages": [
             {
                 "src": "/newdoc/readme.md",
-                "dest": "/my/new/dir/",
-                "name": "New name 1"
+                "dest": "/",
+                "name": "Homepage",
+                "homepage": true
             },
             {
-                "src": "/newdoc/readme.md",
-                "dest": "/my/new/dir/",
-                "name": "New name 2"
+                "src": "/test-import-swagger.json",
+                "dest": "/technical",
+                "name": "Swagger"
             }
         ]
     }
