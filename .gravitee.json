@@ -12,6 +12,16 @@
                 "src": "/test-import-swagger.json",
                 "dest": "/technical",
                 "name": "Swagger"
+            },
+            {
+                "src": "/newdoc/test-import-asciidoc.adoc",
+                "dest": "/",
+                "name": "adoc documentation"
+            },
+            {
+                "src": "/newdoc/test-import-asyncapi.yml",
+                "dest": "/",
+                "name": "asyncapi documentation"
             }
         ]
     }
